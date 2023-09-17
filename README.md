@@ -1,5 +1,5 @@
 # EdudataHub
-Certainly, here are four points outlining the purpose of the "EduDataHub" project:
+
 
 1. **Efficiency Enhancement:** The primary purpose of the project is to enhance the efficiency of the institute's administrative processes. EduDataHub aims to automate tasks such as student enrollment, admission management, course tracking, and fee collection, reducing manual effort and associated errors.
 
