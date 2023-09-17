@@ -1,6 +1,6 @@
 # EdudataHub
-Technologies used -
-
+Technologies used - Frontend- Java,swing
+                    backend-  Java,MySQL(Using Xampp)
 1. **Efficiency Enhancement:** The primary purpose of the project is to enhance the efficiency of the institute's administrative processes. EduDataHub aims to automate tasks such as student enrollment, admission management, course tracking, and fee collection, reducing manual effort and associated errors.
 
 2. **Data Centralization:** The project's purpose includes centralizing all student-related data and admission information into a single, accessible platform. This central repository enables staff to quickly access and update student records, improving data accuracy and eliminating data silos.
