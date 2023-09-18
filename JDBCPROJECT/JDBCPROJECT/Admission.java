@@ -522,6 +522,6 @@ public class Admission extends JFrame implements ActionListener {
 				JOptionPane.showMessageDialog(null,""+e3);	
 			}
 		}
-	}//a
+	}
 
 }
