@@ -10,4 +10,4 @@ Technologies used - Frontend- Java,swing
 4. **Enhanced User Experience:** The project aims to enhance the user experience for both staff and students. Staff will benefit from an intuitive interface that simplifies data entry and retrieval, while students can expect a smoother admission process and more transparent communication regarding fees and courses. Ultimately, the purpose is to create a more user-friendly educational environment.
 
 By serving these purposes, the "EduDataHub" project seeks to modernize and streamline administrative operations, improve data management, empower decision-makers, and enhance the overall experience of students and staff within the institute
-.
+
