@@ -41,3 +41,4 @@ public class Splash extends JFrame implements Runnable {
     }
     
 }
+// this class gives a loading frame takes 4 sec to open login page
