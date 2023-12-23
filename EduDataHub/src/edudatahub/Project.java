@@ -191,3 +191,4 @@ public class Project extends JFrame implements ActionListener {
     
     
 }
+// this class is home page of the system contains swing components
