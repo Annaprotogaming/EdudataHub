@@ -12,4 +12,4 @@ Technologies used - Frontend- Java,swing
 By serving these purposes, the "EduDataHub" project seeks to modernize and streamline administrative operations, improve data management, empower decision-makers, and enhance the overall experience of students and staff within the institute.
 
 folder nbproject contain xml file and properties files.
-       src contain java code . inside src icons folder contain icons and images used in project .
+       src contain java code . inside src icons folder contain icons and images used in project ..
